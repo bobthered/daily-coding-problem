@@ -8,3 +8,4 @@
 |         4 | Hard       | [Description](problems/004) | [Solution](problems/004/index.js) |   ✔️   |
 |         5 | Medium     | [Description](problems/005) | [Solution](problems/005/index.js) |   ✔️   |
 |         6 | Hard       | [Description](problems/006) | [Solution](problems/006/index.js) |        |
+|         7 | Medium     | [Description](problems/007) | [Solution](problems/007/index.js) |   ✔️   |

@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const { cons, car, cdr } = require('./index');
 
 test('car(cons(3, 4)) is 3', () => {

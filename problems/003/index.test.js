@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const { deserialize, Node, serialize } = require('./index');
 
 const node = new Node(

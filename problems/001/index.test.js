@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const sumExistsInArray = require('./index');
 
 test('Given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17', () => {
