@@ -12,4 +12,4 @@
 |         8 | Easy       | [Description](problems/008) | [Solution](problems/008/index.js) |        |
 |         9 | Hard       | [Description](problems/009) | [Solution](problems/009/index.js) |   ✔️   |
 |        10 | Medium     | [Description](problems/010) | [Solution](problems/010/index.js) |   ✔️   |
-|        11 | Medium     | [Description](problems/011) |                                   |   ✔    |
+|        11 | Medium     | [Description](problems/011) | [Solution](problems/010/index.js) |   ✔️   |
