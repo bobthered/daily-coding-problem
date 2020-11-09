@@ -16,3 +16,4 @@
 |        12 | Hard       | [Description](problems/012) | [Solution](problems/012/index.js) |   ✔️   |
 |        13 | Hard       | [Description](problems/013) | [Solution](problems/013/index.js) |   ✔️   |
 |        14 | Medium     | [Description](problems/014) | [Solution](problems/014/index.js) |   ✔️   |
+|        15 | Medium     | [Description](problems/015) |                                   |        |
