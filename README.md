@@ -17,5 +17,5 @@
 |        13 | Hard       | [Description](problems/013) | [Solution](problems/013/index.js) |   ✔️   |
 |        14 | Medium     | [Description](problems/014) | [Solution](problems/014/index.js) |   ✔️   |
 |        15 | Medium     | [Description](problems/015) | [Solution](problems/015/index.js) |   ✔️   |
-|        16 | Medium     | [Description](problems/016) | [Solution](problems/016/index.js) |   ✔️   |
-|        17 | Medium     | [Description](problems/017) | [Solution](problems/017/index.js) |   ✔️   |
+|        16 | Easy       | [Description](problems/016) | [Solution](problems/016/index.js) |   ✔️   |
+|        17 | Hard       | [Description](problems/017) | [Solution](problems/017/index.js) |   ✔️   |
