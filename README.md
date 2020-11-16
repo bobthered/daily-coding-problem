@@ -7,9 +7,9 @@
 |         3 | Medium     | [Description](problems/003) | [Solution](problems/003/index.js) |   ✔️   |
 |         4 | Hard       | [Description](problems/004) | [Solution](problems/004/index.js) |   ✔️   |
 |         5 | Medium     | [Description](problems/005) | [Solution](problems/005/index.js) |   ✔️   |
-|         6 | Hard       | [Description](problems/006) | [Solution](problems/006/index.js) |        |
+|         6 | Hard       | [Description](problems/006) |                                   |        |
 |         7 | Medium     | [Description](problems/007) | [Solution](problems/007/index.js) |   ✔️   |
-|         8 | Easy       | [Description](problems/008) | [Solution](problems/008/index.js) |        |
+|         8 | Easy       | [Description](problems/008) |                                   |        |
 |         9 | Hard       | [Description](problems/009) | [Solution](problems/009/index.js) |   ✔️   |
 |        10 | Medium     | [Description](problems/010) | [Solution](problems/010/index.js) |   ✔️   |
 |        11 | Medium     | [Description](problems/011) | [Solution](problems/011/index.js) |   ✔️   |
@@ -21,3 +21,4 @@
 |        17 | Hard       | [Description](problems/017) | [Solution](problems/017/index.js) |   ✔️   |
 |        18 | Hard       | [Description](problems/018) | [Solution](problems/018/index.js) |   ✔️   |
 |        19 | Medium     | [Description](problems/019) |                                   |        |
+|        20 | Easy       | [Description](problems/020) |                                   |        |
