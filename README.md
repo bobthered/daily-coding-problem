@@ -22,4 +22,4 @@
 |        18 | Hard       | [Description](problems/018) | [Solution](problems/018/index.js) |   ✔️   |
 |        19 | Medium     | [Description](problems/019) |                                   |        |
 |        20 | Easy       | [Description](problems/020) | [Solution](problems/020/index.js) |   ✔️   |
-|        21 | Easy       | [Description](problems/021) |                                   |        |
+|        21 | Easy       | [Description](problems/021) | [Solution](problems/021/index.js) |   ✔️   |
