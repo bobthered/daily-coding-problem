@@ -28,4 +28,4 @@
 |        24 | Medium     | [Description](problems/024) |                                   |        |
 |        25 | Hard       | [Description](problems/025) | [Solution](problems/025/index.js) |   ✔️   |
 |        26 | Medium     | [Description](problems/026) |                                   |        |
-|        27 | Easy       | [Description](problems/027) |                                   |        |
+|        27 | Easy       | [Description](problems/027) | [Solution](problems/027/index.js) |   ✔️   |
