@@ -27,3 +27,4 @@
 |        23 | Easy       | [Description](problems/023) | [Solution](problems/023/index.js) |   ✔️   |
 |        24 | Medium     | [Description](problems/024) |                                   |        |
 |        25 | Hard       | [Description](problems/025) | [Solution](problems/025/index.js) |   ✔️   |
+|        26 | Easy       | [Description](problems/026) |                                   |        |
