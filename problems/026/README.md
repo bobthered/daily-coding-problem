@@ -1,4 +1,4 @@
-## Daily Coding Problem: Problem #26
+## Daily Coding Problem: Problem #26 [Medium]
 
 This problem was asked by Google.
 
