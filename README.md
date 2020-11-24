@@ -31,3 +31,4 @@
 |        27 | Easy       | [Description](problems/027) | [Solution](problems/027/index.js) |   ✔️   |
 |        28 | Medium     | [Description](problems/028) | [Solution](problems/028/index.js) |   ✔️   |
 |        29 | Easy       | [Description](problems/029) | [Solution](problems/029/index.js) |   ✔️   |
+|        30 | Medium     | [Description](problems/030) |                                   |        |
