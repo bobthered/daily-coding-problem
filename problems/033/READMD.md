@@ -17,3 +17,5 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 2
 2
 ```
+
+[Solution](./index.js);

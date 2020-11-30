@@ -34,6 +34,6 @@
 |        30 | Medium     | [Description](problems/030) | [Solution](problems/030/index.js) |   ✔️   |
 |        31 | Easy       | [Description](problems/031) | [Solution](problems/031/index.js) |   ✔️   |
 |        32 | Hard       | [Description](problems/032) |                                   |        |
-|        33 | Easy       | [Description](problems/033) |                                   |        |
+|        33 | Easy       | [Description](problems/033) | [Solution](problems/033/index.js) |   ✔️   |
 |        34 | Medium     | [Description](problems/034) |                                   |        |
 |        35 | Hard       | [Description](problems/035) |                                   |        |
