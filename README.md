@@ -36,3 +36,4 @@
 |        32 | Hard       | [Description](problems/032) |                                   |        |
 |        33 | Easy       | [Description](problems/033) |                                   |        |
 |        34 | Medium     | [Description](problems/034) |                                   |        |
+|        35 | Hard       | [Description](problems/035) |                                   |        |
